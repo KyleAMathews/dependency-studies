@@ -1,0 +1,14 @@
+{
+  "name": "@kylemathews/secondary-dep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@kylemathews/tertiary-dep": "1.0.0"
+  }
+}
