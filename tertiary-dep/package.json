@@ -1,7 +1,7 @@
 {
   "name": "@kylemathews/tertiary-dep",
   "public": true,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "just for testing",
   "main": "index.js",
   "scripts": {
